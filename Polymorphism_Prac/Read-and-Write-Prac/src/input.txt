@@ -1,0 +1,3 @@
+Instructions:
+    Create a text file named input.txt with some lines of text.
+    Write a Java program to read each line from the file and print it to the console.
